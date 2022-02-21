@@ -28,4 +28,4 @@ Procedures:
 
 5. Simulation: generated review star ratings using Multinomial Logistic Regression model along with the distribution of the review star ratings of each restaurant, assigned the generated data with shuffled reviews as the simulated data, and re-inputted into the Logistic Regression model, to verify the findings from the real data.
 
-6. Verification: extracted business features (price, region, business type etc.) and predicted whether the reviews of a business contains at least one significant var (feature) on affecting the future reviews.
+6. Velidation: extracted business features (price, region, business type etc.) and predicted whether the reviews of a business contains at least one significant var (feature) on affecting the future reviews.
